@@ -1,12 +1,12 @@
 👋 Hi, I’m Prasad
-Full Stack Developer • Java | Spring Boot | SQL | NoSQL | React | Cloud | AI-Ready
+Backend Developer • Java | Spring Boot | SQL & NoSQL | Cloud | AI-Ready
 
 🚀 Skills
 🔹 Java , Spring Boot 3
 🔹 Spring Security, JWT, Microservices
 🔹 PostgreSQL, MySQL, MongoDB, Redis, Kafka
 🔹 REST APIs
-🔹 Html, CSS, JavaScript, React
+🔹 JavaScript, React
 🔹 Maven, Git, Docker
 🔹 AI Tools: ChatGPT, Claude, Cursor
 
