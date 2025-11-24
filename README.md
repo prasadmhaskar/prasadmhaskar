@@ -18,7 +18,7 @@ Full Stack Developer • Java | Spring Boot | SQL | NoSQL | React | Cloud | AI-R
 
 📬 Contact
 🔹 Email: prasadmhaskar33@gmail.com
-🔹 LinkedIN: https://www.linkedin.com/in/prasad-mhaskar-b336ab2b6/
+🔹 LinkedIN: https://www.linkedin.com/in/prasad-mhaskar/
 🔹 GitHub: https://github.com/prasadmhaskar
 
 
