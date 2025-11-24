@@ -1,7 +1,7 @@
 👋 Hi, I’m Prasad,
 Backend Developer • Java | Spring Boot | SQL & NoSQL | Cloud | AI-Ready
 
-🚀 Skills
+🚀 Skills:
 🔹 Java , Spring Boot 3
 🔹 Spring Security, JWT, Microservices
 🔹 PostgreSQL, MySQL, MongoDB, Redis, Kafka
@@ -10,15 +10,13 @@ Backend Developer • Java | Spring Boot | SQL & NoSQL | Cloud | AI-Ready
 🔹 Maven, Git, Docker
 🔹 AI Tools: ChatGPT, Claude, Cursor
 
-📌 Current Focus
+📌 Current Focus:
 🔹 Building projects and deploying on AWS
 🔹 Improving low-level system design
 🔹 Learning DevOps, high-level system design
 
 
-📬 Contact
+📬 Contact:
 🔹 Email: prasadmhaskar33@gmail.com
 🔹 LinkedIN: https://www.linkedin.com/in/prasad-mhaskar/
 🔹 GitHub: https://github.com/prasadmhaskar
-
-
