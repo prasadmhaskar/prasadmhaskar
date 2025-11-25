@@ -1,5 +1,5 @@
 👋 Hi, I’m Prasad,
-Backend Developer • Java | Spring Boot | SQL & NoSQL | Cloud | AI-Ready
+Backend Developer • Java | Spring Boot | Microservices | SQL & NoSQL | Cloud | AI-Ready
 
 🚀 Skills:
 🔹 Java , Spring Boot 3
