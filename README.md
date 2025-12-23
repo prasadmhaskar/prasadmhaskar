@@ -1,7 +1,7 @@
 👋 Hi, I’m Prasad,
 Backend Engineer specializing in Scalable Java Systems
 ----
-I spent 3.5 years mastering operational execution in a service enterprise before transitioning into full-stack backend engineering. For the past 11 months, I have been in a self-imposed **Engineering Residency**, focusing on building production-grade, secure, and resilient architectures.
+After 3.5 years of leading operational workflows in a service enterprise, I transitioned into software engineering through a self-imposed, high-intensity **Backend Residency**. I focus on building production-grade systems that prioritize security, observability, and resiliency.
 ------
 
 🛠️ Technical Arsenal:
@@ -10,6 +10,7 @@ I spent 3.5 years mastering operational execution in a service enterprise before
 🔹 Architecture: Microservices, RESTful API Design, Event-Driven Processing
 🔹 Security: OAuth2, JWT Rotation, Risk-Based MFA, RBAC
 🔹 Infrastructure: Docker, Redis (Caching/Rate-Limiting), Resilience4j, Git, Maven
+🔹 Observability: Centralized Exception Handling, Audit Logging, IP Monitoring
 
 📌 Current Focus:
 🔹 Distributed Resiliency: Implementing Circuit Breakers and Bulkheads to handle service degradation.
@@ -17,8 +18,11 @@ I spent 3.5 years mastering operational execution in a service enterprise before
 🔹 DevOps Parity: Containerizing complex stacks to ensure "it works on my machine" means "it works in production."
 
 📈 Activity & Impact:
-🔹 [Advanced-Authentication-System](https://github.com/prasadmhaskar/Advanced-Authentication-System): A production-ready security layer with Redis-backed rate limiting and MFA.
-🔹 Currently Building: [Distributed-Task-Queue]
+🔒 [Advanced-Authentication-System](https://github.com/prasadmhaskar/Advanced-Authentication-System):
+🔹 An enterprise-grade IAM system built with a focus on fraud prevention and system uptime.
+🔹 Orchestrator Pattern: Decoupled business logic for complex flows (OAuth linking, MFA).
+🔹 Security Ops: Integrated Device Fingerprinting and an Adaptive Risk Engine.
+🔹 Resiliency: 99.9% simulated uptime using Circuit Breakers and Bulkheads.
 
 📬 Contact:
 🔹 Email: prasadmhaskar33@gmail.com
