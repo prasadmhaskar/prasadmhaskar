@@ -3,15 +3,14 @@ Backend Developer • Java | Spring Boot | Microservices | SQL & NoSQL | Cloud |
 
 🚀 Skills:
 🔹 Java , Spring Boot 3
-🔹 Spring Security, JWT, Microservices
+🔹 Spring Security, JWT, OAuth2, Microservices
 🔹 PostgreSQL, MySQL, MongoDB, Redis, Kafka
 🔹 REST APIs
-🔹 JavaScript, React
 🔹 Maven, Git, Docker
 🔹 AI Tools: ChatGPT, Claude, Cursor
 
 📌 Current Focus:
-🔹 Building projects and deploying on AWS
+🔹 Building production grade projects
 🔹 Improving low-level system design
 🔹 Learning DevOps, high-level system design
 
