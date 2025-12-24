@@ -2,7 +2,6 @@
 Backend Engineer specializing in Scalable Java Systems
 ----
 After 3.5 years of leading operational workflows in a service enterprise, I transitioned into software engineering through a self-imposed, high-intensity **Backend Residency**. I focus on building production-grade systems that prioritize security, observability, and resiliency.
-------
 
 🛠️ Technical Arsenal:
 🔹 Languages: Java, SQL (PostgreSQL, MySQL)
