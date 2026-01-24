@@ -1,6 +1,7 @@
 👋 Hi, I’m Prasad,
 Backend Engineer specializing in Scalable Java Systems
 ----
+
 After 3.5 years of leading operational workflows in a service enterprise, I transitioned into software engineering through a self-imposed, high-intensity **Backend Residency**. I focus on building production-grade systems that prioritize security, observability, and resiliency.
 
 🛠️ Technical Arsenal:
@@ -17,7 +18,7 @@ After 3.5 years of leading operational workflows in a service enterprise, I tran
 🔹 DevOps Parity: Containerizing complex stacks to ensure "it works on my machine" means "it works in production."
 
 📈 Activity & Impact:
-🔒 [Advanced-Authentication-System](https://github.com/prasadmhaskar/Advanced-Authentication-System):
+🔒[Advanced-Authentication-System](https://github.com/prasadmhaskar/Advanced-Authentication-System):
 🔹 An enterprise-grade IAM system built with a focus on fraud prevention and system uptime.
 🔹 Orchestrator Pattern: Decoupled business logic for complex flows (OAuth linking, MFA).
 🔹 Security Ops: Integrated Device Fingerprinting and an Adaptive Risk Engine.
