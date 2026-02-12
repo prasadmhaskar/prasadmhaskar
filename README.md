@@ -45,10 +45,3 @@ This is not a simple login app. It is a **production-ready security framework** 
 * **Security First:** I assume the network is hostile. Every endpoint is rate-limited, validated, and monitored.
 * **Infrastructure as Code:** "It works on my machine" is a bug. I use **Docker** to ensure parity between dev and prod.
 * **Radical Simplicity:** Complexity is the enemy of reliability. I prefer boring, proven technologies (Postgres, Redis, Java) over hype.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadmhaskar&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadmhaskar&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
