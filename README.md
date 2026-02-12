@@ -36,8 +36,12 @@ This is not a simple login app. It is a **production-ready security framework** 
 * **Adaptive Risk Engine:** Analyzes **Geo-Velocity** (Impossible Travel) and **Device Fingerprints** to block suspicious access in real-time.
 * **Stateless Architecture:** Fully decoupled using **JWT Rotation**, **OAuth2**, and **Redis** for session management.
 * **Observability:** Integrated MDC logging, audit trails, and performance monitoring.
+  
+Live Demo
+**Swagger UI / API Documentation:**
+👉 **[https://prasad-auth-sys.duckdns.org/swagger-ui/index.html](https://prasad-auth-sys.duckdns.org/swagger-ui/index.html)**
 
-[View Architecture Diagram & Demo »](https://github.com/prasadmhaskar/Advanced-Authentication-System)
+*(Note: Hosted on AWS EC2 t2.micro. First request may have slight latency due to cold start.)*
 
 ---
 
