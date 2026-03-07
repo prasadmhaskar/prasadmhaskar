@@ -50,4 +50,3 @@ Live Demo
 * **Radical Simplicity:** Complexity is the enemy of reliability. I prefer boring, proven technologies (Postgres, Redis, Java) over hype.
 
 
-
