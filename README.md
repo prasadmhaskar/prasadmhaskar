@@ -49,4 +49,3 @@ Live Demo
 * **Infrastructure as Code:** "It works on my machine" is a bug. I use **Docker** to ensure parity between dev and prod.
 * **Radical Simplicity:** Complexity is the enemy of reliability. I prefer boring, proven technologies (Postgres, Redis, Java) over hype.
 
-
