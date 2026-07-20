@@ -9,7 +9,7 @@
 ### 🚀 About Me
 I am a **Backend Engineer** focused on building resilient, high-security distributed systems. 
 
-With **3.5 years of experience leading operational workflows**, I understand that software doesn't exist in a vacuum—it must be reliable, observable, and secure. I transitioned into engineering through an intensive **Backend Residency**, where I architected enterprise-grade systems from the ground up, simulating high-traffic production environments.
+With **3.5 years of experience leading operational workflows**, I understand that software doesn't exist in a vacuum it must be reliable, observable, and secure. I transitioned into engineering through an intensive **Backend Residency**, where I architected enterprise-grade systems from the ground up, simulating high-traffic production environments.
 
 I don't just write code; I engineer **deployable solutions**. My focus is on **Spring Boot architecture, Cloud Security (OAuth2/JWT), and DevOps parity.**
 
