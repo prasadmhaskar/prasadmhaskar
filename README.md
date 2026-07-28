@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Prasad Mhaskar</h1>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:06B6D4&text=Prasad%20Mhaskar&fontSize=48&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&animation=fadeIn"/>
+
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Microservices+%26+Distributed+Systems;Building+Scalable+Backend+Applications" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Building+Scalable+Backend+Systems;Distributed+Systems+%26+Microservices;Always+Learning+New+Technologies"/>
+
 </p>
+
+
+
+
 
 <p align="center">
 
