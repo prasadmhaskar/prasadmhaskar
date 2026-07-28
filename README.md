@@ -10,28 +10,6 @@
 
 </p>
 
-
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prasad-mhaskar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:prasadmhaskar33@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/prasadmhaskar">
-<img src="https://img.shields.io/github/followers/prasadmhaskar?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=prasadmhaskar&style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
