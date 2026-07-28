@@ -1,50 +1,243 @@
-# Hi there, I'm Prasad 👋
-### Backend Engineer | Java Ecosystem & Cloud Infrastructure
+<h1 align="center">Hi 👋, I'm Prasad Mhaskar</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-mhaskar/)
-[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:prasadmhaskar33@gmail.com)
+<h3 align="center">
+Java Backend Developer • Spring Boot • Microservices • Distributed Systems
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Microservices+%26+Distributed+Systems;Building+Scalable+Backend+Applications" />
+</p>
 
-### 🚀 About Me
-I am a **Backend Engineer** focused on building resilient, high-security distributed systems. 
+<p align="center">
 
-With **3.5 years of experience leading operational workflows**, I understand that software doesn't exist in a vacuum it must be reliable, observable, and secure. I transitioned into engineering through an intensive **Backend Residency**, where I architected enterprise-grade systems from the ground up, simulating high-traffic production environments.
+<a href="https://www.linkedin.com/in/prasad-mhaskar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-I don't just write code; I engineer **deployable solutions**. My focus is on **Spring Boot architecture, Cloud Security (OAuth2/JWT), and DevOps parity.**
+<a href="mailto:prasadmhaskar33@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
----
+<a href="https://github.com/prasadmhaskar">
+<img src="https://img.shields.io/github/followers/prasadmhaskar?style=for-the-badge"/>
+</a>
 
-### 🛠️ Technical Arsenal
+<img src="https://komarev.com/ghpvc/?username=prasadmhaskar&style=for-the-badge"/>
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Backend Core** | ![Java](https://img.shields.io/badge/-Java_17-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot_3-6DB33F?logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=springsecurity&logoColor=white) |
-| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/-AWS_EC2-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) |
-| **Tooling** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-
----
-
-### 🏆 Featured Project
-
-#### 🔐 [Advanced Authentication System](https://github.com/prasadmhaskar/Advanced-Authentication-System)
-> *A hardened, zero-trust identity platform built to mitigate OWASP Top 10 vulnerabilities.*
-
-This is not a simple login app. It is a **production-ready security framework** deployed on AWS, featuring:
-* **Defense-in-Depth:** Layered security using **Nginx Rate Limiting** (Layer 7) and **Redis Bucket4j** (Application Layer).
-* **Adaptive Risk Engine:** Analyzes **Geo-Velocity** (Impossible Travel) and **Device Fingerprints** to block suspicious access in real-time.
-* **Stateless Architecture:** Fully decoupled using **JWT Rotation**, **OAuth2**, and **Redis** for session management.
-* **Observability:** Integrated MDC logging, audit trails, and performance monitoring.
-* **Deployment:** Fully deployed on AWS EC2
-  
-Live Demo
-**Swagger UI / API Documentation:**
-👉 **[https://prasad-auth-sys.duckdns.org/swagger-ui/index.html](https://prasad-auth-sys.duckdns.org/swagger-ui/index.html)**
+</p>
 
 ---
 
-### 📈 Engineering Philosophy
-* **Security First:** I assume the network is hostile. Every endpoint is rate-limited, validated, and monitored.
-* **Infrastructure as Code:** "It works on my machine" is a bug. I use **Docker** to ensure parity between dev and prod.
-* **Radical Simplicity:** Complexity is the enemy of reliability. I prefer boring, proven technologies (Postgres, Redis, Java) over hype.
+# 👨‍💻 About Me
+
+Backend Developer focused on designing secure, scalable and event-driven backend systems using **Java** and the **Spring ecosystem**.
+
+I enjoy solving backend engineering challenges involving authentication, distributed systems, asynchronous messaging, caching, cloud deployment and backend architecture.
+
+### Currently focusing on
+
+- Spring Boot
+- Microservices
+- Apache Kafka
+- Distributed Systems
+- System Design
+- Cloud Deployment
+- Spring AI
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=hibernate"/>
+
+</p>
+
+**Spring Boot • Spring Security • Spring Data JPA • Spring Cloud Gateway • REST APIs • OAuth2 • JWT**
+
+---
+
+### Databases & Messaging
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+<img src="https://skillicons.dev/icons?i=kafka"/>
+
+</p>
+
+---
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=nginx"/>
+
+</p>
+
+---
+
+### Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+</p>
+
+**Postman • Swagger/OpenAPI • JUnit**
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Advanced Authentication System
+
+A production-style authentication platform built with Spring Boot and Spring Security.
+
+### Highlights
+
+- JWT Authentication
+- Refresh Token Rotation
+- OAuth2 Login (Google & GitHub)
+- Email Verification
+- Password Reset
+- Risk-Based Authentication
+- Multi-Factor Authentication
+- Redis Rate Limiting
+- GeoIP-based Risk Detection
+- AWS Deployment
+- Nginx Reverse Proxy
+
+🔗 Repository
+
+https://github.com/prasadmhaskar/Advanced-Authentication-System
+
+🌐 Live Demo
+
+https://prasad-auth-sys.duckdns.org/swagger-ui/index.html
+
+---
+
+## 📦 Distributed Order Processing System
+
+Event-driven microservices application demonstrating enterprise backend architecture.
+
+### Highlights
+
+- Spring Boot Microservices
+- Apache Kafka
+- Docker
+- PostgreSQL
+- Saga Pattern
+- Transactional Outbox Pattern
+- Retry Mechanism
+- Dead Event Handling
+- Idempotent Kafka Consumers
+- Correlation IDs
+- Event-Driven Communication
+
+🔗 Repository
+
+https://github.com/prasadmhaskar/Distributed-Order-Processing-System
+
+---
+
+# 🧠 Backend Concepts
+
+- REST API Design
+- Authentication & Authorization
+- Spring Security
+- OAuth2
+- JWT
+- Redis Caching
+- Event-Driven Architecture
+- Distributed Systems
+- Saga Pattern
+- Transactional Outbox
+- Idempotent Consumers
+- Database-per-Service
+- Docker
+- AWS Deployment
+- Concurrency & Multithreading
+
+---
+
+# 📚 Virtual Experience & Certifications
+
+- Java Full Stack Developer – Pentagon Space
+- Software Engineering Virtual Experience – JPMorgan Chase
+- Software Engineering Virtual Experience – Citi
+- Software Engineering Virtual Experience – Hewlett Packard Enterprise (HPE)
+- Software Engineering Virtual Experience – Wells Fargo
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasadmhaskar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadmhaskar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasadmhaskar&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+prasadmhaskar33@gmail.com
+
+🔗 **LinkedIn**
+
+https://www.linkedin.com/in/prasad-mhaskar/
+
+💻 **GitHub**
+
+https://github.com/prasadmhaskar
+
+---
+
+⭐ I enjoy building secure, scalable backend systems and continuously learning modern backend architecture, distributed systems and cloud-native technologies.
