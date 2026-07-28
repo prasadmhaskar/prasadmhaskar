@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Mhaskar</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • Microservices • Distributed Systems
+Java Backend Developer
 </h3>
 
 <p align="center">
