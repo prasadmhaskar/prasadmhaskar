@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Mhaskar</h1>
 
-<h3 align="center">
-Java Backend Developer
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Microservices+%26+Distributed+Systems;Building+Scalable+Backend+Applications" />
 </p>
