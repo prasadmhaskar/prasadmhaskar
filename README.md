@@ -1,215 +1,24 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563EB,100:06B6D4&text=Prasad%20Mhaskar&fontSize=48&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&animation=fadeIn"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563EB,100:06B6D4&text=Prasad%20Mhaskar&fontSize=44&fontAlignY=38&desc=Java%20FullStack%20Developer&descAlignY=58" alt="Prasad Mhaskar — Java FullStack Developer" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Building+Scalable+Backend+Systems;Distributed+Systems+%26+Microservices;Always+Learning+New+Technologies"/>
-
+  <a href="https://www.linkedin.com/in/prasad-mhaskar/">LinkedIn</a> ·
+  <a href="mailto:prasadmhaskar33@gmail.com">Email</a>
 </p>
 
----
+## About
 
-# 👨‍💻 About Me
+Java FullStack Developer focused on building practical applications with Java, Spring Boot, and React.
 
-Backend Developer focused on designing secure, scalable and event-driven backend systems using **Java** and the **Spring ecosystem**.
-
-I enjoy solving backend engineering challenges involving authentication, distributed systems, asynchronous messaging, caching, cloud deployment and backend architecture.
-
-### Currently focusing on
-
-- Spring Boot
-- Microservices
-- Apache Kafka
-- Distributed Systems
-- System Design
-- Cloud Deployment
-- Spring AI
-
----
-
-# 🛠 Tech Stack
-
-### Languages
+## Tech Stack
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,redis,kafka,docker,aws,git" alt="Java, Spring, React, JavaScript, HTML, CSS, PostgreSQL, Redis, Kafka, Docker, AWS, Git" />
 </p>
 
----
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=hibernate"/>
-
-</p>
-
-**Spring Boot • Spring Security • Spring Data JPA • Spring Cloud Gateway • REST APIs • OAuth2 • JWT**
-
----
-
-### Databases & Messaging
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-<img src="https://skillicons.dev/icons?i=kafka"/>
-
-</p>
-
----
-
-### Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=nginx"/>
-
-</p>
-
----
-
-### Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=maven"/>
-
-</p>
-
-**Postman • Swagger/OpenAPI • JUnit**
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 Advanced Authentication System
-
-A production-style authentication platform built with Spring Boot and Spring Security.
-
-### Highlights
-
-- JWT Authentication
-- Refresh Token Rotation
-- OAuth2 Login (Google & GitHub)
-- Email Verification
-- Password Reset
-- Risk-Based Authentication
-- Multi-Factor Authentication
-- Redis Rate Limiting
-- GeoIP-based Risk Detection
-- AWS Deployment
-- Nginx Reverse Proxy
-
-🔗 Repository
-
-https://github.com/prasadmhaskar/Advanced-Authentication-System
-
-🌐 Live Demo
-
-https://prasad-auth-sys.duckdns.org/swagger-ui/index.html
-
----
-
-## 📦 Distributed Order Processing System
-
-Event-driven microservices application demonstrating enterprise backend architecture.
-
-### Highlights
-
-- Spring Boot Microservices
-- Apache Kafka
-- Docker
-- PostgreSQL
-- Saga Pattern
-- Transactional Outbox Pattern
-- Retry Mechanism
-- Dead Event Handling
-- Idempotent Kafka Consumers
-- Correlation IDs
-- Event-Driven Communication
-
-🔗 Repository
-
-https://github.com/prasadmhaskar/Distributed-Order-Processing-System
-
----
-
-# 🧠 Backend Concepts
-
-- REST API Design
-- Authentication & Authorization
-- Spring Security
-- OAuth2
-- JWT
-- Redis Caching
-- Event-Driven Architecture
-- Distributed Systems
-- Saga Pattern
-- Transactional Outbox
-- Idempotent Consumers
-- Database-per-Service
-- Docker
-- AWS Deployment
-- Concurrency & Multithreading
-
----
-
-# 📚 Virtual Experience & Certifications
-
-- Java Full Stack Developer – Pentagon Space
-- Software Engineering Virtual Experience – JPMorgan Chase
-- Software Engineering Virtual Experience – Citi
-- Software Engineering Virtual Experience – Hewlett Packard Enterprise (HPE)
-- Software Engineering Virtual Experience – Wells Fargo
-
----
-
-# 📊 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasadmhaskar&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-prasadmhaskar33@gmail.com
-
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/prasad-mhaskar/
-
-💻 **GitHub**
-
-https://github.com/prasadmhaskar
-
----
-
-⭐ I enjoy building secure, scalable backend systems and continuously learning modern backend architecture, distributed systems and cloud-native technologies.
+## Featured Projects
+
+- [Advanced Authentication System](https://github.com/prasadmhaskar/Advanced-Authentication-System) — Spring Security, JWT, OAuth2, and Redis.
+- [Distributed Order Processing System](https://github.com/prasadmhaskar/Distributed-Order-Processing-System) — Spring Boot microservices with Kafka.
+- [DocMind AI](https://github.com/prasadmhaskar/DocMind-ai) — A document Q&A application using retrieval-augmented generation (RAG), with a React frontend.
