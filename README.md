@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563EB,100:06B6D4&text=Prasad%20Mhaskar&fontSize=44&fontAlignY=38&desc=Java%20FullStack%20Developer&descAlignY=58" alt="Prasad Mhaskar — Java FullStack Developer" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prasad-mhaskar/">LinkedIn</a> ·
-  <a href="mailto:prasadmhaskar33@gmail.com">Email</a>
-</p>
-
 ## About
 
 Java FullStack Developer focused on building practical applications with Java, Spring Boot, and React.
